@@ -70,10 +70,5 @@ namespace AdventOfCode.Days
 
             return horizontal * depth;
         }
-
-
-
-
-
     }
 }
